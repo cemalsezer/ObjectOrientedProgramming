@@ -1,0 +1,15 @@
+@startuml
+title Car Model
+class Car{
+    -manufacturer:string
+    -model:string
+    -year: int
+    +color:string
+
+    +activeWipers(speed) : void
+    +openSunRoof() : void
+    +playRadio(station) : void
+    +drive() : void
+    +stop() : void
+}
+@enduml
