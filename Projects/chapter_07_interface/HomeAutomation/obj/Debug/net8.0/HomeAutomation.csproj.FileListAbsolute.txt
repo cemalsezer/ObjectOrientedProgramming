@@ -1,0 +1,15 @@
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\bin\Debug\net8.0\HomeAutomation.exe
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\bin\Debug\net8.0\HomeAutomation.deps.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\bin\Debug\net8.0\HomeAutomation.runtimeconfig.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\bin\Debug\net8.0\HomeAutomation.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\bin\Debug\net8.0\HomeAutomation.pdb
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.AssemblyInfoInputs.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.AssemblyInfo.cs
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.csproj.CoreCompileInputs.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.sourcelink.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\refint\HomeAutomation.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.pdb
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\HomeAutomation.genruntimeconfig.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_07_interface\HomeAutomation\obj\Debug\net8.0\ref\HomeAutomation.dll
