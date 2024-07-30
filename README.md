@@ -1,3 +1,7 @@
+<div aling="center">
+<img src="https://github.com/cemalsezer/ObjectOrientedProgramming/blob/main/Projects/oop.png" />
+</div>
+
 ## Eğitim İçeriği 
 
 ### 1. Giriş
