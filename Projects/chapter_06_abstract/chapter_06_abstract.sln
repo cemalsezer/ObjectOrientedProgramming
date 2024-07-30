@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{1B4BB83D-9CEF-4E93-8688-AE93A5889FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4BB83D-9CEF-4E93-8688-AE93A5889FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4BB83D-9CEF-4E93-8688-AE93A5889FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4BB83D-9CEF-4E93-8688-AE93A5889FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4BB83D-9CEF-4E93-8688-AE93A5889FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ACC5858-9503-48A7-B6C2-9FD3BF6B51A5}
+	EndGlobalSection
+EndGlobal

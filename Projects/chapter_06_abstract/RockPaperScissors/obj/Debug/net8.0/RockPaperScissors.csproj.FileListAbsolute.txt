@@ -1,0 +1,15 @@
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\cemal\desktop\OOP\Projects\chapter_06_abstract\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
